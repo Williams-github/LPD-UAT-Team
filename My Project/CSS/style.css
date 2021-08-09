@@ -1,0 +1,232 @@
+#topbar
+{
+    background-color:black;
+    height:10px;
+    width: 100%;
+
+}
+body
+{
+background-color: white;
+}
+#container
+{
+    
+    width:70%;
+    margin:0px auto;
+
+}
+#header
+{
+    background-color: white;
+    height:70px;
+    width:100%;
+
+}
+#header img
+{
+    height:70px;
+   
+
+}
+#header ul 
+{
+    float:right;
+    margin-top: 25px;
+
+}
+#header ul li
+{
+    display: inline;
+    margin-right: 25px;
+}
+#header ul li a
+{
+    text-decoration: none;
+    color:grey;
+    font-size:18px;
+    
+}
+#Banner img
+{
+    width:100%;
+    padding-bottom:10px;
+}
+#content1
+{
+    width:32%;
+    height:350px;
+    background-color: orange;
+    float:left;
+    margin-right:2%;
+    margin-left:2px;
+    
+}
+#content2
+{
+    width:32%;
+    height:350px;
+    background-color:yellowgreen;
+    float:left;
+    margin-right:1%;
+}
+#content3
+{
+    width:32%;
+    height:350px;
+    background-color:violet;
+    float:right;
+}
+.heading
+{
+    color:white;
+    margin-left:20px;
+    font-size: 20px;
+}
+.Paragraph
+{
+   color:black;
+   margin-left:15px;
+   font-size:15px;
+   margin-right:15px;
+}
+.button
+{
+    text-decoration:none;
+    color:black;
+    background-color:white;
+    padding:8px;
+    margin-left:16px;
+    
+}
+.Button1
+{
+    text-decoration:none;
+    color:black;
+    background-color: white;
+    margin-left:16px;
+    padding:8px;
+}
+.Button2
+{
+    text-decoration:none;
+    color:black;
+    background-color: white;
+    margin-left:16px;
+    padding:8px;
+}
+#bottom1
+{
+    width:66%;
+    height:500px;
+    float:left;
+    margin-top:20px;
+
+}
+#bottom2
+{
+    width:34%;
+    height:450px;
+    float:right;
+    margin-top:20px;
+
+
+}
+.header1
+{
+    margin-left:20px;
+    color:black;
+    font-size: 30px;
+
+}
+.header2
+{
+    color:black;
+    margin-left:15px;
+    padding:2px;
+    font-size: 25px;
+
+}
+.para1
+{
+    margin-left: 20px;
+    color:black;
+    margin-right:15px;
+}
+.para2
+{
+    margin-left:20px;
+    color:black;
+    margin-right:15px;
+}
+.button4
+{
+    
+    margin-left:15px;
+    color:orange;
+    
+}
+.header3
+{
+    margin-left:10px;
+    font-size: 25px;
+    color:black;
+}
+.para3
+{
+   margin-left:10px;
+   margin-right:5px; 
+}
+.image1
+{
+    margin-left:10px;
+}
+.c1
+{
+    color:orange;
+    margin-left:10px;
+}
+#Footer
+{
+    width:100%;
+    height:70px;
+    background-color:black;
+    clear:both;
+
+
+}
+.f1
+{
+    color:white;
+    font-size: 13px;
+    margin-left:10px;
+    margin-top: 10px;
+
+}
+#Footer ul 
+{
+    float:right;
+    margin-top: 25px;
+
+}
+#Footer ul li
+{
+    display: inline;
+    margin-right: 25px;
+}
+#Footer ul li a
+{
+    text-decoration: none;
+    color:white;
+    font-size:15px;
+    
+}
+.copyright
+{
+    color : white;
+    font-size: 13px;
+    margin-top:30px;
+    margin-left: 10px;
+
+}
+
